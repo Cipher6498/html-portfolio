@@ -1,0 +1,15 @@
+body {
+    max-width: 600px;
+}
+
+h1, .topic {
+    text-align: center;
+}
+h1 {
+    font-family: Cinzel;
+}
+
+img {
+    margin-left: 37%;
+}
+
